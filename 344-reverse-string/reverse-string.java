@@ -1,13 +1,9 @@
 class Solution {
     public void reverseString(char[] s) {
-        int i=0;
-        int n=s.length-1;
-        while(i<n){
+       for(int i=0;i<s.length/2;i++){
             char r=s[i];
-            s[i]=s[n];
-            s[n]=r;
-            i++;
-            n--;
+            s[i]=s[s.length-1-i];
+            s[s.length-1-i]=r;
         }
         System.out.print(Arrays.toString(s));
     }
