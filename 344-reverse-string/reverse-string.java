@@ -5,6 +5,5 @@ class Solution {
             s[i]=s[s.length-1-i];
             s[s.length-1-i]=r;
         }
-        System.out.print(Arrays.toString(s));
     }
 }
