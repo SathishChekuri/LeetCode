@@ -1,9 +1,9 @@
 class Solution {
     public int firstUniqChar(String s) {
-        for(int i=0;i<s.length();i++){
-            char ch=s.charAt(i);
-            if(s.indexOf(ch)==s.lastIndexOf(ch)) return i;
+        int n=Integer.MAX_VALUE;
+        for(int i='a';i<='z';i++){
+            if(s.indexOf(i)!=-1&&s.indexOf(i)==s.lastIndexOf(i)) n=Math.min(n,s.indexOf(i));
         }
-        return -1;
+        return (n==Integer.MAX_VALUE)?-1:n;
     }
 }
