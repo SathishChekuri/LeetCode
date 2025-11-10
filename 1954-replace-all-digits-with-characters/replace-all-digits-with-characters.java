@@ -1,10 +1,7 @@
 class Solution {
     public String replaceDigits(String s) {
-        String r="";
-        for(int i=0;i<s.length();i++){
-            if(i%2!=0) r+=(char)(s.charAt(i-1)+Integer.parseInt(s.charAt(i)+""));
-            else r+=s.charAt(i);
-        }
-        return r;
+        char []a=s.toCharArray();
+        for(int i=1;i<a.length;i+=2) a[i]=(char)(a[i-1]+(a[i]-'0'));
+        return new String(a);
     }
 }
