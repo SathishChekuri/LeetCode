@@ -1,14 +1,15 @@
 class Solution {
     public boolean halvesAreAlike(String s) {
         int n=s.length();
-        String r="AEIOUaeiou";
         int c=0;
         for(int i=0;i<n/2;i++){
-           if(r.contains(s.charAt(i)+"")) c++;
+            char ch=s.charAt(i);
+           if(ch=='A'||ch=='E'||ch=='I'||ch=='O'||ch=='U'||ch=='a'||ch=='e'||ch=='o'||ch=='u'||ch=='i') c++;
         }
         for(int i=n/2;i<n;i++){
-            if(r.contains(s.charAt(i)+"")) c--;
+            char ch=s.charAt(i);
+            if(ch=='A'||ch=='E'||ch=='I'||ch=='O'||ch=='U'||ch=='a'||ch=='e'||ch=='o'||ch=='u'||ch=='i')  c--;
         }
-        return (c==0)?true:false;
+        return (c==0);
     }
 }
