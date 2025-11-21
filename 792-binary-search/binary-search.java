@@ -1,7 +1,12 @@
 class Solution {
     public int search(int[] nums, int target) {
-        for(int i=0;i<nums.length;i++){
-            if(target==nums[i]) return i;
+        int i=0;
+        int n=nums.length-1;
+        while(i<=n){
+            int md=(i+n)/2;
+            if(target==nums[md]) return md;
+            else if(nums[md]<target) i=md+1;
+            else if(nums[md]>target) n=md-1; 
         }
         return -1;
     }
