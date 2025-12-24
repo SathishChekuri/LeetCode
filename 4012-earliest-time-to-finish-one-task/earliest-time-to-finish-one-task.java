@@ -3,7 +3,7 @@ class Solution {
         int min=Integer.MAX_VALUE;
         for(int i=0;i<tasks.length;i++){
             int tm=tasks[i][0]+tasks[i][1];
-            if(min>tm) min=tm;
+            if(tm<min) min=tm;
         }
         return min;
     }
