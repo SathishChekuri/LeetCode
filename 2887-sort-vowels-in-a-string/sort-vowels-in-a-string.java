@@ -1,24 +1,22 @@
 class Solution {
     public String sortVowels(String s) {
-       // StringBuilder b=new StringBuilder(s);
-        String o="AEIOUaeiou";
-        int cnt=0;
+       String o="";
         for(char c:s.toCharArray()){
-            if(o.contains(c+"")) cnt++;
+            if(c=='a'||c=='e'||c=='i'||c=='o'||c=='u'||c=='A'||c=='E'||c=='I'||c=='O'||c=='U'){
+                o+=c;
+            }
         }
-        if(cnt==0) return s;
-        char arr[]=new char[cnt];
-        int in=0;
-        for(char c:s.toCharArray()){
-            if(o.contains(c+"")) arr[in++]=c;
-        }
+        if(o.length()==0) return s;
+        char arr[]=o.toCharArray();
         Arrays.sort(arr);
-        String r="";
-        in=0;
-        for(char c:s.toCharArray()){
-            if(o.contains(c+"")) r+=arr[in++]; 
-            else r+=c;
+        StringBuilder sb=new StringBuilder(s);
+        int k=0;
+        for(int i=0;i<sb.length();i++){
+            if(s.charAt(i)=='a'||s.charAt(i)=='e'||s.charAt(i)=='i'||s.charAt(i)=='o'||s.charAt(i)=='u'||s.charAt(i)=='A'||s.charAt(i)=='E'||s.charAt(i)=='I'||s.charAt(i)=='O'||s.charAt(i)=='U') {
+                sb.setCharAt(i,arr[k++]);
         }
-        return r;
+        }
+        return sb.toString();
+        
     }
 }
