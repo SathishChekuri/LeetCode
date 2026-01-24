@@ -6,7 +6,7 @@ class Solution {
         int mx=0;
         while(l<r){
             int sum=nums[l]+nums[r];
-            mx=Math.max(sum,mx);
+            if(sum>mx) mx=sum;
             l++;
             r--;
         }
