@@ -12,9 +12,6 @@ class Solution {
            ans.add(a1.get(i));
             ans.add(a2.get(i));
         }
-        for(int i=0;i<nums.length;i++){
-            nums[i]=ans.get(i);
-        }
-        return nums;
+        return ans.stream().mapToInt(Integer::intValue).toArray();
     }
 }
