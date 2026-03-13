@@ -10,8 +10,7 @@ class Solution {
             }
         }
         int [] ar=new int[res.size()];
-        int i=0;
-        for(int x:res) ar[i++]=x;
+        for(int i=0;i<ar.length;i++) ar[i]=res.get(i);
         return ar;
     }
 }
