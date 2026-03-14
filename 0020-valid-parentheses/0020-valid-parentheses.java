@@ -5,7 +5,7 @@ class Solution {
             if(c=='('||c=='{'||c=='[') stk.push(c);
             else if(stk.empty()) return false;
             else if((c==')'&&stk.peek()=='(')||(c=='}'&&stk.peek()=='{')||(c==']'&&stk.peek()=='[')) stk.pop();
-            //else return false;
+            else return false;
         }
            if(stk.size()==0) return true;
            return false;
