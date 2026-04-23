@@ -1,33 +1,28 @@
 class Solution {
-    public long[] distance(int[] arr) {
-        long[] output = new long[arr.length];
-        Map<Integer, Long> sumMap = new HashMap<>();
-        Map<Integer, Integer> countMap = new HashMap<>();
-        for (int i = 0; i < arr.length; ++i) {
-            if (!sumMap.containsKey(arr[i])) {
-                sumMap.put(arr[i], 0l);
-                countMap.put(arr[i], 0);
-            }
-
-            output[i] += i * (long) countMap.get(arr[i]) - sumMap.get(arr[i]);
-            sumMap.put(arr[i], sumMap.get(arr[i]) + i);
-            countMap.put(arr[i], countMap.get(arr[i]) + 1);
+    public long[] distance(int[] nums) {
+        int n = nums.length;
+        long[] res = new long[n];
+        HashMap<Integer, ArrayList<Integer>> hm = new HashMap<>();
+        for (int i = 0; i < n; i++) {
+            hm.putIfAbsent(nums[i], new ArrayList<>());
+            hm.get(nums[i]).add(i);
         }
-
-        sumMap = new HashMap<>();
-        countMap = new HashMap<>();
-        int len = arr.length;
-        for (int i = len - 1; i >= 0; --i) {
-            if (!sumMap.containsKey(arr[i])) {
-                sumMap.put(arr[i], 0l);
-                countMap.put(arr[i], 0);
+        for(ArrayList<Integer> al : hm.values()){
+            int size = al.size();
+            if(size==1)continue;
+            long totalsum=0;
+            for(int i:al)totalsum+=i;
+            long prefixsum=0;
+            for(int i=0;i<size;i++){
+                int index=al.get(i);
+                long left = i;
+                long right = size-i-1;
+                long leftsum=prefixsum;
+                long rightsum= totalsum-prefixsum-index;
+                res[index]= (index*left- leftsum) + (rightsum-index*right);
+                prefixsum+=index;
             }
-
-            output[i] += (len - i - 1) * (long) countMap.get(arr[i]) - sumMap.get(arr[i]);
-            sumMap.put(arr[i], sumMap.get(arr[i]) + (len - i - 1));
-            countMap.put(arr[i], countMap.get(arr[i]) + 1);
         }
-
-        return output;
+        return res;
     }
 }
