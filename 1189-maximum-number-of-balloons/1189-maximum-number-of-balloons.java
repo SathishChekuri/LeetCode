@@ -8,10 +8,7 @@ class Solution {
             else if(c=='o') o++;
             else if(c=='n') n++;
         }
-        int res=Math.min(a,b);
-        res=Math.min(res,l/2);
-        res=Math.min(res,o/2);
-        res=Math.min(res,n);
-        return res;
+       
+        return Math.min(a,Math.min(Math.min(l/2,Math.min(o/2,n)),b));
     }
 }
