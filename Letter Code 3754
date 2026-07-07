@@ -1,0 +1,29 @@
+# Letter Code 3754
+
+## Problem Statement
+
+Given a code consisting of letters, determine the required output based on the given rules of the problem.
+
+Write a program to solve the Letter Code problem and generate the correct result for the given input.
+
+## Approach
+
+- Read the input values.
+- Apply the required logic to process the letters/code.
+- Generate and print the final output.
+
+## Solution Code
+class Solution {
+    public long sumAndMultiply(int n) {
+        String s=n+"";
+        long num=0,sum=0;
+        for(char c:s.toCharArray()){
+            if(c!='0'){
+                int d=c-'0';
+                num=num*10+d;
+                sum+=d;
+            }
+        }
+        return num*sum;
+    }
+}
