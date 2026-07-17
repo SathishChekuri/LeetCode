@@ -1,18 +1,15 @@
 class Solution {
     public int[] dailyTemperatures(int[] temperatures) {
-       HashMap<Integer,Integer> hs=new HashMap<>();
        Stack<Integer> st=new Stack<>();
+       int [] res=new int[temperatures.length];
        for(int i=temperatures.length-1;i>=0;i--){
-        int t=temperatures[i];
-        while(!st.isEmpty()&&t>=st.peek()){
+        while(!st.isEmpty()&&temperatures[i]>=temperatures[st.peek()]){
             st.pop();
-            hs.remove(t);
         }
-        if(st.isEmpty()) temperatures[i]=0;
-        else temperatures[i]=hs.get(st.peek())-i;
-        st.push(t);
-        hs.put(t,i);
+        if(st.isEmpty()) res[i]=0;
+        else res[i]=st.peek()-i;
+        st.push(i);
        }
-return temperatures;
+      return res;
     }
 }
