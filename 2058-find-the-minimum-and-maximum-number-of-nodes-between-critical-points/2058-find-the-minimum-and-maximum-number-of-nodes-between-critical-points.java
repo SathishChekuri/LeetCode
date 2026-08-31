@@ -10,20 +10,21 @@
  */
 class Solution {
     public int[] nodesBetweenCriticalPoints(ListNode head) {
-        ArrayList<Integer> ar=new ArrayList<>();
         int i=1;
         int mn=Integer.MAX_VALUE;
         ListNode prev=null;
+        int l_id=-1,f_id=-1;
         while(head.next!=null){
             if(prev!=null && (((head.next.val>head.val) && (prev.val>head.val))||(head.next.val<head.val && prev.val<head.val))){
-                 if(ar.size()>0) mn=Math.min(mn,i-ar.get(ar.size()-1));
-                 ar.add(i);
+                if(l_id!=-1) mn=Math.min(mn,i-l_id);
+                if(f_id==-1) f_id=i;
+                l_id=i;
             }
             prev=head;
             head=head.next;
             i++;
         }
-        if(ar.size()<=1) return new int[]{-1,-1};
-        return new int[]{mn,ar.get(ar.size()-1)-ar.get(0)};
+        if(mn==Integer.MAX_VALUE) return new int[]{-1,-1};
+        return new int[]{mn,l_id-f_id};
     }
 }
