@@ -7,16 +7,7 @@ class Solution {
             if(i!=j&&isConnected[i][j]==1){
                 int u=dsj.find(i),v=dsj.find(j);
                 if(u==v) continue;
-                if(dsj.rank[u]>dsj.rank[v]){
-                    dsj.parent[v]=u;
-                }
-                else if(dsj.rank[v]>dsj.rank[u]){
-                    dsj.parent[u]=v;
-                }
-                else{
-                    dsj.rank[u]++;
-                    dsj.parent[v]=u;
-                }
+                  dsj.parent[v]=u;
             }
         }
        }
