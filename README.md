@@ -17,6 +17,7 @@ This repository contains the LeetCode problems I solve and their solutions, auto
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SathishChekuri/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/SathishChekuri/LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SathishChekuri/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
+| [3925-concatenate-array-with-reverse](https://github.com/SathishChekuri/LeetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,6 +79,7 @@ This repository contains the LeetCode problems I solve and their solutions, auto
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3271-hash-divided-string](https://github.com/SathishChekuri/LeetCode/tree/main/3271-hash-divided-string/) | Medium |
+| [3925-concatenate-array-with-reverse](https://github.com/SathishChekuri/LeetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
