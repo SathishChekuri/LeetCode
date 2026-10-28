@@ -11,6 +11,7 @@ This repository contains the LeetCode problems I solve and their solutions, auto
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/SathishChekuri/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SathishChekuri/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/SathishChekuri/LeetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3024-type-of-triangle](https://github.com/SathishChekuri/LeetCode/tree/main/3024-type-of-triangle/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SathishChekuri/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -77,4 +78,12 @@ This repository contains the LeetCode problems I solve and their solutions, auto
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3271-hash-divided-string](https://github.com/SathishChekuri/LeetCode/tree/main/3271-hash-divided-string/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SathishChekuri/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SathishChekuri/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 <!---LeetCode Topics End-->
