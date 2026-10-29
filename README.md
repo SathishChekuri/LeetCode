@@ -16,12 +16,14 @@ This repository contains the LeetCode problems I solve and their solutions, auto
 | [3024-type-of-triangle](https://github.com/SathishChekuri/LeetCode/tree/main/3024-type-of-triangle/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SathishChekuri/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/SathishChekuri/LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/SathishChekuri/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SathishChekuri/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/SathishChekuri/LeetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/SathishChekuri/LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/SathishChekuri/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SathishChekuri/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -34,11 +36,13 @@ This repository contains the LeetCode problems I solve and their solutions, auto
 | ------- | ------- |
 | [2409-count-days-spent-together](https://github.com/SathishChekuri/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [3271-hash-divided-string](https://github.com/SathishChekuri/LeetCode/tree/main/3271-hash-divided-string/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/SathishChekuri/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/SathishChekuri/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SathishChekuri/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/SathishChekuri/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,4 +92,20 @@ This repository contains the LeetCode problems I solve and their solutions, auto
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SathishChekuri/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/SathishChekuri/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/SathishChekuri/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/SathishChekuri/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/SathishChekuri/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 <!---LeetCode Topics End-->
