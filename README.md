@@ -17,6 +17,7 @@ This repository contains the LeetCode problems I solve and their solutions, auto
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/SathishChekuri/LeetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3024-type-of-triangle](https://github.com/SathishChekuri/LeetCode/tree/main/3024-type-of-triangle/) | Easy |
 | [3131-find-the-integer-added-to-array-i](https://github.com/SathishChekuri/LeetCode/tree/main/3131-find-the-integer-added-to-array-i/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SathishChekuri/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SathishChekuri/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/SathishChekuri/LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/SathishChekuri/LeetCode/tree/main/3665-twisted-mirror-path-count/) | Medium |
@@ -38,6 +39,7 @@ This repository contains the LeetCode problems I solve and their solutions, auto
 | [2409-count-days-spent-together](https://github.com/SathishChekuri/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/SathishChekuri/LeetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3024-type-of-triangle](https://github.com/SathishChekuri/LeetCode/tree/main/3024-type-of-triangle/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SathishChekuri/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SathishChekuri/LeetCode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -82,6 +84,7 @@ This repository contains the LeetCode problems I solve and their solutions, auto
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/SathishChekuri/LeetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SathishChekuri/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +92,7 @@ This repository contains the LeetCode problems I solve and their solutions, auto
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SathishChekuri/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/SathishChekuri/LeetCode/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SathishChekuri/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Simulation
@@ -100,6 +104,7 @@ This repository contains the LeetCode problems I solve and their solutions, auto
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SathishChekuri/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SathishChekuri/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,6 +132,7 @@ This repository contains the LeetCode problems I solve and their solutions, auto
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SathishChekuri/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/SathishChekuri/LeetCode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
