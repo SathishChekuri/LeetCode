@@ -15,6 +15,7 @@ This repository contains the LeetCode problems I solve and their solutions, auto
 | [1254-number-of-closed-islands](https://github.com/SathishChekuri/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SathishChekuri/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SathishChekuri/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/SathishChekuri/LeetCode/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/SathishChekuri/LeetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/SathishChekuri/LeetCode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3024-type-of-triangle](https://github.com/SathishChekuri/LeetCode/tree/main/3024-type-of-triangle/) | Easy |
@@ -138,6 +139,7 @@ This repository contains the LeetCode problems I solve and their solutions, auto
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1882-process-tasks-using-servers](https://github.com/SathishChekuri/LeetCode/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SathishChekuri/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/SathishChekuri/LeetCode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Shortest Path
