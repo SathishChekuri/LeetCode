@@ -13,6 +13,7 @@ This repository contains the LeetCode problems I solve and their solutions, auto
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SathishChekuri/LeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SathishChekuri/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/SathishChekuri/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/SathishChekuri/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SathishChekuri/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SathishChekuri/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1882-process-tasks-using-servers](https://github.com/SathishChekuri/LeetCode/tree/main/1882-process-tasks-using-servers/) | Medium |
@@ -55,22 +56,26 @@ This repository contains the LeetCode problems I solve and their solutions, auto
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/SathishChekuri/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/SathishChekuri/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SathishChekuri/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/SathishChekuri/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/SathishChekuri/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/SathishChekuri/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SathishChekuri/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/SathishChekuri/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/SathishChekuri/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SathishChekuri/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/SathishChekuri/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/SathishChekuri/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SathishChekuri/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/SathishChekuri/LeetCode/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SathishChekuri/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -94,6 +99,7 @@ This repository contains the LeetCode problems I solve and their solutions, auto
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/SathishChekuri/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/SathishChekuri/LeetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
