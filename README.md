@@ -16,6 +16,7 @@ This repository contains the LeetCode problems I solve and their solutions, auto
 | [1267-count-servers-that-communicate](https://github.com/SathishChekuri/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SathishChekuri/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SathishChekuri/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/SathishChekuri/LeetCode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1882-process-tasks-using-servers](https://github.com/SathishChekuri/LeetCode/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/SathishChekuri/LeetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/SathishChekuri/LeetCode/tree/main/2747-count-zero-request-servers/) | Medium |
@@ -110,6 +111,7 @@ This repository contains the LeetCode problems I solve and their solutions, auto
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/SathishChekuri/LeetCode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [3271-hash-divided-string](https://github.com/SathishChekuri/LeetCode/tree/main/3271-hash-divided-string/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/SathishChekuri/LeetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Sliding Window
@@ -145,6 +147,7 @@ This repository contains the LeetCode problems I solve and their solutions, auto
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/SathishChekuri/LeetCode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1882-process-tasks-using-servers](https://github.com/SathishChekuri/LeetCode/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SathishChekuri/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/SathishChekuri/LeetCode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
@@ -160,4 +163,8 @@ This repository contains the LeetCode problems I solve and their solutions, auto
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SathishChekuri/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/SathishChekuri/LeetCode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 <!---LeetCode Topics End-->
