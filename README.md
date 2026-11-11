@@ -47,6 +47,7 @@ This repository contains the LeetCode problems I solve and their solutions, auto
 | [3024-type-of-triangle](https://github.com/SathishChekuri/LeetCode/tree/main/3024-type-of-triangle/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SathishChekuri/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SathishChekuri/LeetCode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/SathishChekuri/LeetCode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -169,4 +170,8 @@ This repository contains the LeetCode problems I solve and their solutions, auto
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/SathishChekuri/LeetCode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/SathishChekuri/LeetCode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 <!---LeetCode Topics End-->
