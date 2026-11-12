@@ -21,6 +21,7 @@ This repository contains the LeetCode problems I solve and their solutions, auto
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/SathishChekuri/LeetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/SathishChekuri/LeetCode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3024-type-of-triangle](https://github.com/SathishChekuri/LeetCode/tree/main/3024-type-of-triangle/) | Easy |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SathishChekuri/LeetCode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3131-find-the-integer-added-to-array-i](https://github.com/SathishChekuri/LeetCode/tree/main/3131-find-the-integer-added-to-array-i/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SathishChekuri/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SathishChekuri/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
