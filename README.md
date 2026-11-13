@@ -23,6 +23,7 @@ This repository contains the LeetCode problems I solve and their solutions, auto
 | [3024-type-of-triangle](https://github.com/SathishChekuri/LeetCode/tree/main/3024-type-of-triangle/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SathishChekuri/LeetCode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3131-find-the-integer-added-to-array-i](https://github.com/SathishChekuri/LeetCode/tree/main/3131-find-the-integer-added-to-array-i/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SathishChekuri/LeetCode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SathishChekuri/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SathishChekuri/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/SathishChekuri/LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
@@ -123,6 +124,7 @@ This repository contains the LeetCode problems I solve and their solutions, auto
 | ------- | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SathishChekuri/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/SathishChekuri/LeetCode/tree/main/2747-count-zero-request-servers/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SathishChekuri/LeetCode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SathishChekuri/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -143,6 +145,7 @@ This repository contains the LeetCode problems I solve and their solutions, auto
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SathishChekuri/LeetCode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/SathishChekuri/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -175,4 +178,20 @@ This repository contains the LeetCode problems I solve and their solutions, auto
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/SathishChekuri/LeetCode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SathishChekuri/LeetCode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SathishChekuri/LeetCode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SathishChekuri/LeetCode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SathishChekuri/LeetCode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 <!---LeetCode Topics End-->
