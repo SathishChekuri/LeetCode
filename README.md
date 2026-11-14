@@ -23,6 +23,7 @@ This repository contains the LeetCode problems I solve and their solutions, auto
 | [3024-type-of-triangle](https://github.com/SathishChekuri/LeetCode/tree/main/3024-type-of-triangle/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SathishChekuri/LeetCode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3131-find-the-integer-added-to-array-i](https://github.com/SathishChekuri/LeetCode/tree/main/3131-find-the-integer-added-to-array-i/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/SathishChekuri/LeetCode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SathishChekuri/LeetCode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SathishChekuri/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SathishChekuri/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -124,12 +125,14 @@ This repository contains the LeetCode problems I solve and their solutions, auto
 | ------- | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SathishChekuri/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/SathishChekuri/LeetCode/tree/main/2747-count-zero-request-servers/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/SathishChekuri/LeetCode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SathishChekuri/LeetCode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SathishChekuri/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SathishChekuri/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/SathishChekuri/LeetCode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
