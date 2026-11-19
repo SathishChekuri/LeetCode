@@ -20,6 +20,7 @@ This repository contains the LeetCode problems I solve and their solutions, auto
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/SathishChekuri/LeetCode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1882-process-tasks-using-servers](https://github.com/SathishChekuri/LeetCode/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/SathishChekuri/LeetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/SathishChekuri/LeetCode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/SathishChekuri/LeetCode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3024-type-of-triangle](https://github.com/SathishChekuri/LeetCode/tree/main/3024-type-of-triangle/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SathishChekuri/LeetCode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
@@ -94,6 +95,7 @@ This repository contains the LeetCode problems I solve and their solutions, auto
 | ------- | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SathishChekuri/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SathishChekuri/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/SathishChekuri/LeetCode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/SathishChekuri/LeetCode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3024-type-of-triangle](https://github.com/SathishChekuri/LeetCode/tree/main/3024-type-of-triangle/) | Easy |
 ## Polygons
@@ -189,6 +191,7 @@ This repository contains the LeetCode problems I solve and their solutions, auto
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/SathishChekuri/LeetCode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/SathishChekuri/LeetCode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
