@@ -23,6 +23,7 @@ This repository contains the LeetCode problems I solve and their solutions, auto
 | [2567-minimum-score-by-changing-two-elements](https://github.com/SathishChekuri/LeetCode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/SathishChekuri/LeetCode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3024-type-of-triangle](https://github.com/SathishChekuri/LeetCode/tree/main/3024-type-of-triangle/) | Easy |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SathishChekuri/LeetCode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SathishChekuri/LeetCode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3131-find-the-integer-added-to-array-i](https://github.com/SathishChekuri/LeetCode/tree/main/3131-find-the-integer-added-to-array-i/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/SathishChekuri/LeetCode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
@@ -98,6 +99,7 @@ This repository contains the LeetCode problems I solve and their solutions, auto
 | [2567-minimum-score-by-changing-two-elements](https://github.com/SathishChekuri/LeetCode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/SathishChekuri/LeetCode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3024-type-of-triangle](https://github.com/SathishChekuri/LeetCode/tree/main/3024-type-of-triangle/) | Easy |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SathishChekuri/LeetCode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 ## Polygons
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,6 +120,7 @@ This repository contains the LeetCode problems I solve and their solutions, auto
 | ------- | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SathishChekuri/LeetCode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/SathishChekuri/LeetCode/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SathishChekuri/LeetCode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SathishChekuri/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/SathishChekuri/LeetCode/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/SathishChekuri/LeetCode/tree/main/3693-climbing-stairs-ii/) | Medium |
