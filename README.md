@@ -59,6 +59,7 @@ This repository contains the LeetCode problems I solve and their solutions, auto
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/SathishChekuri/LeetCode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/SathishChekuri/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/SathishChekuri/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/SathishChekuri/LeetCode/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
