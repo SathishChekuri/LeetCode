@@ -40,6 +40,7 @@ This repository contains the LeetCode problems I solve and their solutions, auto
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/SathishChekuri/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SathishChekuri/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/SathishChekuri/LeetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
+| [3934-smallest-unique-subarray](https://github.com/SathishChekuri/LeetCode/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,6 +120,7 @@ This repository contains the LeetCode problems I solve and their solutions, auto
 | [2747-count-zero-request-servers](https://github.com/SathishChekuri/LeetCode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3331-find-subtree-sizes-after-changes](https://github.com/SathishChekuri/LeetCode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SathishChekuri/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/SathishChekuri/LeetCode/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -199,6 +201,7 @@ This repository contains the LeetCode problems I solve and their solutions, auto
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SathishChekuri/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [3934-smallest-unique-subarray](https://github.com/SathishChekuri/LeetCode/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -240,4 +243,16 @@ This repository contains the LeetCode problems I solve and their solutions, auto
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/SathishChekuri/LeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/SathishChekuri/LeetCode/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/SathishChekuri/LeetCode/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/SathishChekuri/LeetCode/tree/main/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->
