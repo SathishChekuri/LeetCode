@@ -41,6 +41,7 @@ This repository contains the LeetCode problems I solve and their solutions, auto
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SathishChekuri/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/SathishChekuri/LeetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [3934-smallest-unique-subarray](https://github.com/SathishChekuri/LeetCode/tree/main/3934-smallest-unique-subarray/) | Hard |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/SathishChekuri/LeetCode/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,6 +138,7 @@ This repository contains the LeetCode problems I solve and their solutions, auto
 | [3665-twisted-mirror-path-count](https://github.com/SathishChekuri/LeetCode/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/SathishChekuri/LeetCode/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SathishChekuri/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/SathishChekuri/LeetCode/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -213,6 +215,7 @@ This repository contains the LeetCode problems I solve and their solutions, auto
 | ------- | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/SathishChekuri/LeetCode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/SathishChekuri/LeetCode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/SathishChekuri/LeetCode/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
