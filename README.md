@@ -42,6 +42,7 @@ This repository contains the LeetCode problems I solve and their solutions, auto
 | [3925-concatenate-array-with-reverse](https://github.com/SathishChekuri/LeetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [3934-smallest-unique-subarray](https://github.com/SathishChekuri/LeetCode/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/SathishChekuri/LeetCode/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/SathishChekuri/LeetCode/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,6 +112,7 @@ This repository contains the LeetCode problems I solve and their solutions, auto
 | [2747-count-zero-request-servers](https://github.com/SathishChekuri/LeetCode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3024-type-of-triangle](https://github.com/SathishChekuri/LeetCode/tree/main/3024-type-of-triangle/) | Easy |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SathishChekuri/LeetCode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/SathishChekuri/LeetCode/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Polygons
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -191,6 +193,7 @@ This repository contains the LeetCode problems I solve and their solutions, auto
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/SathishChekuri/LeetCode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1882-process-tasks-using-servers](https://github.com/SathishChekuri/LeetCode/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SathishChekuri/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/SathishChekuri/LeetCode/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/SathishChekuri/LeetCode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
@@ -216,6 +219,7 @@ This repository contains the LeetCode problems I solve and their solutions, auto
 | [2567-minimum-score-by-changing-two-elements](https://github.com/SathishChekuri/LeetCode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/SathishChekuri/LeetCode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/SathishChekuri/LeetCode/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/SathishChekuri/LeetCode/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
